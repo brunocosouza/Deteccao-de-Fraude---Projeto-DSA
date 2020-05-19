@@ -1,6 +1,6 @@
 # Deteccao-de-Fraude---Projeto-DSA
-Projeto de detecção de Fraude em R do Curso de R com Azure da DSA. O projeto aborda todas as etapas de analise de dados, d
-esde o pré processamento até a criação e validação de um modelo preditivo.
+Projeto de detecção de Fraude em R do Curso de R com Azure da DSA. O projeto aborda todas as etapas de analise de dados, 
+desde o pré processamento até a criação e validação de um modelo preditivo.
 
 O risco de fraude está em toda parte, mas para as empresas que anunciam
 online, a fraude de cliques pode acontecer em um volume avassalador,
