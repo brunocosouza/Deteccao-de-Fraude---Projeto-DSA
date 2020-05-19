@@ -28,6 +28,6 @@ O projeto foi realizado todo em linguagem R. O dataset contém 8 variaveis (incl
 e 100000 observações. 
 O dataset foi divido em dados de treino e de teste e foi realizado um modelo preditivo supervisionado. 
 Durante esse projeto foi utilizado o algoritmo Random Florest, do pacote randomflorest do CRAN, para a Feature Selection.
-Os dados então foram treinando, também, com random florest e avaliados com os modelos de teste. A otimização
+Os dados então foram treinando, também, com random florest e avaliados com os dados de teste. A otimização
 ocorreu introduzindo uma função de custo ao modelo. E a avalição final ocorreu com a criação dos graficos ROC
 do pacote pROC do CRAN.
